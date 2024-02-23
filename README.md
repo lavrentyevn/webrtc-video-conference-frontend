@@ -1,4 +1,4 @@
-## WebRTC Video Conference
+# WebRTC Video Conference
 
 This is the frontend part of a full-stack project - WebRTC Video Conference.
 
