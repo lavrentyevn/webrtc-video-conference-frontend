@@ -45,7 +45,8 @@ If the user decides to "Trust this computer", then he does not have to log in ag
 -  RequireAuth <br />
 This component checks if the user is authenticated.
 
-<img width="500" alt="Screenshot 2024-02-23 at 18 30 09" src="https://github.com/lavrentyevn/webrtc-video-conference-frontend/assets/111048277/55ed5416-57d6-440f-921d-6ac6a15c7b71">
+<img width="500" alt="Screenshot 2024-02-23 at 18 31 14" src="https://github.com/lavrentyevn/webrtc-video-conference-frontend/assets/111048277/2afad80c-a500-496b-b6a5-61713bec9330">
+
 
 
 ## WebRTC
