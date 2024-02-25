@@ -118,7 +118,8 @@ These are rooms that anyone can join if you know a password.
 
 These are rooms that might be **event** or **free**. The only difference is that your account created them.
 
-<img width="1775" alt="Screenshot 2024-02-23 at 17 45 14" src="https://github.com/lavrentyevn/webrtc-video-conference-frontend/assets/111048277/a5c71be8-ca0d-47ea-8267-cf176598623a">
+<img width="1776" alt="Screenshot 2024-02-25 at 14 33 30" src="https://github.com/lavrentyevn/webrtc-video-conference-frontend/assets/111048277/7fd77be6-6dfb-4b2a-849b-74c2b35b0c28">
+
 
 All rooms have the same interior design.
 
