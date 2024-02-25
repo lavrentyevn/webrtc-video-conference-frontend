@@ -94,7 +94,7 @@ export default function Main() {
           <div class="container">
             {auth?.accessToken ? (
               <div>
-                <h1 class="jumbotron-heading">Welcome, John</h1>
+                <h1 class="jumbotron-heading">Welcome, {auth.user}</h1>
                 <p class="lead text-muted">You are able to join:</p>
                 <p class="lead" style={{ color: "#483D8B" }}>
                   {eventRooms} event rooms
